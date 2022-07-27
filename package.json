@@ -1,0 +1,10 @@
+{
+  "name": "shawn-demo-cli",
+  "version": "1.0.3",
+  "description": "",
+  "bin": {
+    "yara": "bin/index.js"
+  },
+  "author": "Shawn Liu",
+  "license": "ISC"
+}
